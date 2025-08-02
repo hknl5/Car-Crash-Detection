@@ -1,4 +1,3 @@
-# Car-Crash-Detection
 # Car Crash Detection
 
 A CLIP-based system for detecting car crashes and street scenarios from images.
